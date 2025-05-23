@@ -24,18 +24,12 @@
 ### 🔬 Hardware & Simulation  
 ![System Verilog](https://img.shields.io/badge/System%20Verilog-FF6F00?style=for-the-badge&logo=verilog&logoColor=white)  ![NGSPICE](https://img.shields.io/badge/NGSPICE-00599C?style=for-the-badge&logo=ngspice&logoColor=white)  ![LTSpice](https://img.shields.io/badge/LTSpice-8B0000?style=for-the-badge&logo=ltspice&logoColor=white)  ![Proteus](https://img.shields.io/badge/Proteus-00AEEF?style=for-the-badge&logo=proteus&logoColor=white)  
 
-## 🚀 Projects  
-- [NeighbourNet](https://github.com/PriyaReka/NeighbourNet) - Connecting local workers with communities  
-- [Emo-Buddy](https://github.com/PriyaReka/Emo-Buddy) - An emotional support chatbot  
-- [NovaNet-SSL](https://github.com/PriyaReka/NovaNet-SSL) - A Self-Supervised DDPM Model for Underwater Image Enhancement  
-- [Audio Equalizer](https://github.com/PriyaReka/Audio-Equalizer) - Customizing audio experience for users  
-
 ## 🏆 Achievements  
-- **Amdocs Gen AI 2025** - Finalist (Ongoing)  
-- **TCS CodeVita Season 12** - Entered Round 2  
-- **LeetCode** - 380+ Problems Solved  
+- **Amdocs Gen AI 2025** - Finalist   
+- **TCS CodeVita Season 12** - global rank 5581  
+- **LeetCode** - 400+ Problems Solved  
 - **SkillRack** - 434+ Problems Solved  
-- **CodeChef** - 2-star Coder  
+- **CodeChef** - 3-star Coder  
 - **Electrothon** - Innovation Hackathon Finalist  
 
 ## 🎓 Certifications  
@@ -43,7 +37,8 @@
 - **Google Cloud** - Generative AI: Beginner  
 - **AICTE Virtual Internship** - Google AI-ML & Android Developer  
 - **Great Learning** - Python for Machine Learning  
-- **NPTEL (2024)** - Operating Systems Fundamentals  
+- **NPTEL (2024)** - Operating Systems Fundamentals
+- **AWS**- certified cloud practitioner
 
 ## 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/priya-reka-s)  
